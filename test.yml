@@ -1,0 +1,25 @@
+name: Terence
+age: 28
+address: Canada
+active: True
+key:
+  key: value
+  key2: value
+  key3:
+    key: value
+    key2: value
+jsonObject: {key: value, key2: value, key3: {key: value, key2: value}}
+array:
+  - item1
+  - item2
+  - key: value
+jsonArray: [item1, item2, item3]
+objectArray:
+  - key: value
+    key2: vale
+  - key3: value
+    key4: value
+longText: |
+  bnrtherhh
+  rrhbrehbrbhre
+  rjtlyctxktkt
